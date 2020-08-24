@@ -5,7 +5,13 @@ VisualStudioVersion = 16.0.30323.103
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProCode4Flow", "ProCode4Flow\ProCode4Flow.csproj", "{BE0EB65D-A466-44A5-93A4-18F783F69630}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "JonasPluginBase", "JonasPluginBase\JonasPluginBase\JonasPluginBase.shproj", "{7736B0EE-A6A2-452E-93EB-9968697A4D0A}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		JonasPluginBase\JonasPluginBase\JonasPluginBase.projitems*{7736b0ee-a6a2-452e-93eb-9968697a4d0a}*SharedItemsImports = 13
+		JonasPluginBase\JonasPluginBase\JonasPluginBase.projitems*{be0eb65d-a466-44a5-93a4-18f783f69630}*SharedItemsImports = 4
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU

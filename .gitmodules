@@ -1,0 +1,3 @@
+[submodule "JonasPluginBase"]
+	path = JonasPluginBase
+	url = https://github.com/rappen/JonasPluginBase
